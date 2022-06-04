@@ -1,0 +1,31 @@
+
+
+#formDiv {
+  text-align: center;
+}
+
+body
+{
+/*   background: rgb(42,194,52); */
+  background: linear-gradient(90deg, rgba(42,194,52,1) 0%, rgba(21,106,162,1) 63%, rgba(122,39,194,1) 96%);
+}
+
+#submitButton {
+  color: #b070c2;
+  background-color: #6d2182;
+}
+
+#submitButton:hover {
+  background-color: #b070c2;
+  color: #6d2182;
+}
+
+#resetButton {
+  background-color: #5b575c;
+  color: #929092;
+}
+
+#resetButton:hover {
+  background-color: #a7a4b6;
+  color: #5b575c;
+}
